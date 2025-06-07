@@ -30,5 +30,5 @@ Este projeto é uma **calculadora de IMC (Índice de Massa Corporal)** feita com
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/joaovitorfc/calculadora-de-imc.git
+cd calculadora-de-imc
